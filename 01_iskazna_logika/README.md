@@ -1,5 +1,7 @@
 ## 01 Iskazna formula
 
+Domaći zadatak se predaje mejlom na `ivan.drecun@matf.bg.ac.rs`. Rok za slanje je zaključno sa naznačenim datumom.
+
 Rok za predaju:  *4.11.2024* \
 Naslov mejla:    `[AR] Domaći zadatak 01_iskazna_logika` \
 U prilogu mejla: *main.cpp (i ostale datoteke, ako ih ima)*
