@@ -4,7 +4,7 @@ Domaći zadatak se predaje mejlom na `ivan.drecun@matf.bg.ac.rs`. Rok za slanje 
 
 Rok za predaju:  *25.11.2024* \
 Naslov mejla:    `[AR] Domaći zadatak 03_sat_provera` \
-U prilogu mejla: *formula.cnf, model.out*
+U prilogu mejla: *formula.in, model.out (mejl server blokira fajlove sa .cnf ekstenzijom)*
 
 
 1. U DIMACS formatu zapisati formulu `(p or ~q) and (q or r) and (~p or q) and (~q or ~r)` i ispitati njenu
